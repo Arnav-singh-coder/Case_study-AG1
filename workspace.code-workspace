@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../P5.js Project"
+		},
+		{
+			"path": "../clown-nose-filter-web-app"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "clown-nose-filter-web-app"
+	}
+}
